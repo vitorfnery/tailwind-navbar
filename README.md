@@ -6,8 +6,6 @@
 
 A responsive navbar component made with [Tailwind CSS](https://tailwindcss.com/). This page was built following the [e-side](https://github.com/elnfar/nav-tail-yt) template
 
-[🔗 Click here to access / Clique aqui para acessar](https://vitorfnery.github.io/tailwind-navbar)
-
 ## 🛠️ Technologies / Tecnologias
 
 - React
